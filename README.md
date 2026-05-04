@@ -6,9 +6,8 @@
 </head>
 <body>
 
-    
     <a href="https://github.com/ARCHYVUKAS/Trigonometrijosuzdaviniai.git">
-    
+        Atidaryti projektą
     </a>
 
 </body>
