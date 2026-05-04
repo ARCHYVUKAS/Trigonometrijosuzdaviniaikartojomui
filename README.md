@@ -8,8 +8,7 @@
 </head>
 <body>
 
-    <!-- ČIA ĮKELK SAVO NUORODĄ -->
-    <a href="https://tavo-nuoroda.lt">Spausk čia</a>
+    <a href=["https://tavo-nuoroda.lt"](https://github.com/ARCHYVUKAS/Trigonometrijosuzdaviniai.git)>Spausk čia</a>
 
 </body>
 </html>
