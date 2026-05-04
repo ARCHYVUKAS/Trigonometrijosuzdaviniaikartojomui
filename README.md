@@ -1,17 +1,10 @@
-**<!DOCTYPE html>
-<html lang="lt">
-<head>
-    <meta charset="UTF-8">
-    <title>Trigonometrija</title>
-</head>
+<!DOCTYPE html>
+<html>
 <body>
 
-    <h1>Trigonometrijos testas</h1>
-
-    <a href="https://archyvukas.github.io/Trigonometrijosuzdaviniai/" target="_blank">
-        Eiti į testą
-    </a>
+<a href="https://github.com/ARCHYVUKAS/Trigonometrijosuzdaviniai.git">
+Spausk čia
+</a>
 
 </body>
 </html>
-**
