@@ -8,7 +8,7 @@
 
     
     <a href="https://github.com/ARCHYVUKAS/Trigonometrijosuzdaviniai.git">
-        Atidaryti mano projektą
+    
     </a>
 
 </body>
